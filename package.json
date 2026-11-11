@@ -1,0 +1,18 @@
+{
+  "name": "readmore-api",
+  "version": "1.0.0",
+  "description": "Bookstore REST API built with Express and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
