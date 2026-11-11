@@ -4,8 +4,7 @@
   "description": "Bookstore REST API built with Express and Mongoose",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "node --test"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18"
