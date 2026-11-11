@@ -2,6 +2,9 @@
 
 A bookstore REST API built with Express, MongoDB, and Mongoose. It manages authors and books, links each book to an author, and enforces bookstore business rules.
 
+# Video Walkthrough link 
+https://youtu.be/ye1tcfT84hE
+
 ## Requirements
 
 - Node.js 18 or newer
